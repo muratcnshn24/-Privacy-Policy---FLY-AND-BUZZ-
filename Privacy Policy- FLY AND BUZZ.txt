@@ -1,21 +1,33 @@
-Gizlilik Politikası
-[Ben/Biz] aşağıdaki nedenlerden dolayı üçüncü taraf şirketleri ve bireyleri istihdam edebiliriz:
-•	Hizmetimizi kolaylaştırmak için;
-•	Hizmeti bizim adımıza sağlamak için;
-•	Hizmetle ilgili hizmetleri gerçekleştirmek için; veya
-•	Hizmetimizin nasıl kullanıldığını analiz etmemize yardımcı olmak.
-[Ben/Biz] bu Hizmetin kullanıcılarını, bu üçüncü tarafların Kişisel Bilgilerine erişebildiği konusunda bilgilendirmek istiyoruz. Sebebi ise kendilerine verilen görevleri bizim adımıza yerine getirmektir. Ancak bilgileri başka herhangi bir amaçla açıklamamak veya kullanmamakla yükümlüdürler.
-Güvenlik
-[Ben/Biz] Kişisel Bilgilerinizi bize sağlama konusundaki güveninize değer veriyoruz, bu nedenle bu bilgileri korumak için ticari olarak kabul edilebilir araçları kullanmaya çalışıyoruz. Ancak internet üzerinden hiçbir aktarım yönteminin veya elektronik depolama yönteminin %100 güvenli ve güvenilir olmadığını ve [Ben/Biz] bunun mutlak güvenliğini garanti edemeyeceğimizi unutmayın.
-Diğer Sitelere Bağlantılar
+GGizlilik Politikası
+
+[Ben/Biz], aşağıdaki nedenlerden dolayı üçüncü taraf şirketleri ve bireyleri istihdam edebiliriz:
+• Hizmetimizi kolaylaştırmak için;
+• Hizmeti bizim adımıza sağlamak için;
+• Hizmetle ilgili hizmetleri gerçekleştirmek için; veya
+• Hizmetimizin nasıl kullanıldığını analiz etmemize yardımcı olmak.
+
+[Ben/Biz], bu Hizmetin kullanıcılarını, bu üçüncü tarafların Kişisel Bilgilerine erişebildiği konusunda bilgilendirmek istiyoruz. Sebebi ise kendilerine verilen görevleri bizim adımıza yerine getirmektir. Ancak bilgileri başka herhangi bir amaçla açıklamamak veya kullanmamakla yükümlüdürler.
+
+**Güvenlik**
+
+[Ben/Biz], Kişisel Bilgilerinizi bize sağlama konusundaki güveninize değer veriyoruz, bu nedenle bu bilgileri korumak için ticari olarak kabul edilebilir araçları kullanmaya çalışıyoruz. Ancak internet üzerinden hiçbir aktarım yönteminin veya elektronik depolama yönteminin %100 güvenli ve güvenilir olmadığını ve [Ben/Biz], bunun mutlak güvenliğini garanti edemeyeceğimizi unutmayın.
+
+**Diğer Sitelere Bağlantılar**
+
 Bu Hizmet diğer sitelere bağlantılar içerebilir. Üçüncü taraf bir bağlantıya tıklarsanız o siteye yönlendirilirsiniz. Bu harici sitelerin [me/us] tarafından işletilmediğini unutmayın. Bu nedenle, [Ben/Biz] bu web sitelerinin Gizlilik Politikasını incelemenizi önemle tavsiye ederiz. [Ben/Biz] herhangi bir üçüncü taraf site veya hizmetin içeriği, gizlilik politikaları veya uygulamaları üzerinde hiçbir kontrole sahip değiliz ve bunlar konusunda hiçbir sorumluluk kabul etmiyoruz.
-Çocukların Gizliliği
+
+**Çocukların Gizliliği**
+
 Bu Hizmetler 13 yaşın altındaki kişilere yönelik değildir. [Ben/Biz] 13 yaşın altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. [Ben/Biz] 13 yaşın altındaki bir çocuğun [bana/bize] kişisel bilgiler sağladığını keşfetmemiz durumunda, [Ben/Biz] bunu derhal sunucularımızdan sileriz. Ebeveyn veya vasi iseniz ve çocuğunuzun bize kişisel bilgiler verdiğini biliyorsanız, lütfen [ben/biz] ile iletişime geçin ki [Ben/Biz] gerekli işlemleri yapabilelim.
-Bu Gizlilik Politikasındaki Değişiklikler
-[Ben/Biz] zaman zaman Gizlilik Politikamızı güncelleyebiliriz. Bu nedenle herhangi bir değişiklik olup olmadığını görmek için bu sayfayı periyodik olarak incelemeniz önerilir. [Ben/Biz] bu sayfada yeni Gizlilik Politikasını yayınlayarak herhangi bir değişiklik hakkında sizi bilgilendireceğiz.
-Bu politika 05.03.2024 tarihinden itibaren geçerlidir.
-Bize Ulaşın
+
+**com.google.android.gms.permission.AD_ID İzni**
+
+Bu Hizmet, reklam hedefleme amacıyla kullanılan reklam kimliği (Advertising ID) ile ilgili bilgileri toplayabilir. Bu izin, uygulama tarafından cihazın reklam kimliğini kullanma yetkisini ifade eder.
+
+Bu gizlilik politikası 05.03.2024 tarihinden itibaren geçerlidir.
+
+**Bize Ulaşın**
+
 [Benim/bizim] Gizlilik Politikamız hakkında herhangi bir sorunuz veya öneriniz varsa, sahinmuratcan0@gmail.com adresinden [benimle/bizimle] iletişime geçmekten çekinmeyin.
+
 Bu gizlilik politikası sayfası, privacypolicytemplate.net adresinde oluşturuldu ve App Privacy Policy Generator tarafından değiştirildi/oluşturuldu.
-
-
